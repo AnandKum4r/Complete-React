@@ -32,16 +32,17 @@ Welcome to my **Complete React Learning Journey** — a hands-on project built u
 
 ## 🔄 How to Run Locally
 
-### 1. Clone the Repo
-
-```bash
-git clone https://github.com/yourusername/complete-react.git
-cd complete-react
-
+1. **Clone the repo**
+   ```bash
+   git clone https://github.com/AnandKum4r/complete-react.git
+   cd complete-react
+   ```
+   
 2. Install dependencies:
     ```bash
     npm install
     ```
+
 ## Usage
 1. Start the development server:
     ```bash
